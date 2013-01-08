@@ -20,6 +20,7 @@
                     "go-gonet",
                     "haskell-snap",
                     "java-webbit",
+                    "java-netty",
                     "node-ws",
                     "node-ws-cluster",
                     "perl-ev",
